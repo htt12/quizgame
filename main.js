@@ -4,7 +4,7 @@ const questions = [
         answers: {
             true: 'true',
             false: 'false'
-        },
+        },fdsafdsfafs
         correctAnswer: 'true',
     },
     {
