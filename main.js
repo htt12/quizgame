@@ -4,8 +4,8 @@ const questions = [
         answers: {
             true: 'true',
             false: 'false'
-        },fdsafdsfafs
-        correctAnswer: 'true',
+        },
+        cogectAnswer: 'true',
     },
     {
         question:'Are the leaves blue?',
